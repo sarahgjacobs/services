@@ -10,7 +10,7 @@ function Navbar() {
 
     return (
         <div className='text-white flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4'>
-            <h1 className='w-full text-3xl font-bold text-[#61e07e]'>Services</h1>
+            <h1 className='w-full text-3xl font-bold text-[#61e07e]'>Services.</h1>
             <ul className='flex uppercase hidden'>
                 <li className='p-4'>Home</li>
                 <li className='p-4'>Company</li>

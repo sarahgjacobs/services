@@ -2,6 +2,6 @@
 
 ## https://sarahgjacobs.github.io/services/
 
-## Photo from storyset on Freepik
+## Photo from storyset and vetorjiuce on Freepik
 
 ## Tutorial by
