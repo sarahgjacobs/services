@@ -20,7 +20,7 @@ See [this link](https://sarahgjacobs.github.io/services/) to view the page.
 ## Technologies Used
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square): JavaScript library for building user interfaces. React: JavaScript library for building user interfaces.
-- - ![Tailwind Framework](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square): Utilized the Tailwind CSS framework for creating a sleek and responsive design.
+- ![Tailwind Framework](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square): Utilized the Tailwind CSS framework for creating a sleek and responsive design.
 - ![CSS Framework](https://img.shields.io/badge/-CSS%20Framework-1572B6?style=flat-square): Utilize a modern CSS framework (e.g., Bootstrap, Tailwind CSS) for a sleek and responsive design. CSS Framework: Utilize a modern CSS framework (e.g., Bootstrap, Tailwind CSS) for a sleek and responsive design.
 
 ## Installation & Usage
