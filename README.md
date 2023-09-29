@@ -13,7 +13,7 @@
 ## Description
 Services is a cutting-edge project developed using React and Tailwind, delivering a modern, responsive UI. Designed to serve as a versatile template for website-seeking companies, it empowers businesses to engage customers effectively while showcasing their services. This project seamlessly integrates React, JavaScript, HTML, Tailwind and CSS
 
-![Screenshot of Services](./assets/images/services.png "Sarah Jacobs Services Website")
+![Screenshot of Services](./src/asssets/services.png "Sarah Jacobs Services Website")
 
 See [this link](https://sarahgjacobs.github.io/services/) to view the page.
 
